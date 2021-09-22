@@ -9,10 +9,18 @@
     
 ### Connect with me:
 
-[<img align="left" alt="statkclee | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg"/>][facebook]
-[<img align="left" alt="statkclee | meetup" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/instagram.svg"/>][instagram]
+<a href="https://instagram.com/alpox.dev">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 
+<a href="https://facebook.com/alpox.dev">
+    <img 
+        src="http://img.shields.io/badge/-Facebook-black?style=flat&logo=Facebook&link=https://facebook.com/alpox.dev/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 <!--
 **j-mayo/j-mayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
