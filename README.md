@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Jaeyo 👋
+
+## I'm a student who learns math and computer science.
+
+
+- 🔭 I’m currently working on ROKAF
+- 🌱 I’m currently learning AI, in particular CV.
+- ⚡ Fun fact: My original major is mathematics, 2nd major is CS(it just starts)
+    
 
 <!--
 **j-mayo/j-mayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
