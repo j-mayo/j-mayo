@@ -7,6 +7,9 @@
 - 🌱 I’m currently learning AI, in particular CV.
 - ⚡ Fun fact?: My original major is mathematics, 2nd major is CS(it just starts... so I have to practice hard)
     
+#### Skills
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/> <img src="https://img.shields.io/badge/Tensorflow-EC6813?style=flat-square&logo=Tensorflow&logoColor=black"/>  
+    
 ### Connect with me:
 
 <a href="https://instagram.com/alpox.dev">
