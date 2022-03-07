@@ -3,11 +3,7 @@
 ## I'm a student who learns math and computer science.
 
 
-- 🔭 I’m currently working on ROKAF
-- 🤔 I'm interested in number theory, alrorithm, and ML.
-- 🌱 I’m currently learning AI/ML, in particular CV.
-
-    
+<!--
 #### Skills
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/> <img src="https://img.shields.io/badge/Tensorflow-EC6813?style=flat-square&logo=Tensorflow&logoColor=black"/>  
     
@@ -41,4 +37,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 -->
